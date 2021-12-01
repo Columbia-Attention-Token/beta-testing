@@ -56,10 +56,10 @@ Minted 200,000 CAT tokens and stored in creator's wallet until transferred
 Step 2:  Provided liquidity with a CAT-ETH pair on Uniswap v3 on the Ropsten Testnet
 I needed 3722 CAT to create the CAT-ETH pool, which I later increased to 5710 per ETH to stabilize the pair
 
-![CAT liquidity](file path)
+![CAT liquidity](Visuals/CAT_ETH_exchange.png)
 
 Step 3:  I ensured that that CAT was tradable on the exchange with a value of 43899.6 CAT per 1 ETH.  I did this so that CAT would not be too expensive to interact with
-
+![token exchange](Visuals/CAT_ETH_exchange.png)
 
 ---
 
@@ -72,11 +72,20 @@ MultiSender app for the airdrops of CAT tokens to the 6 winners
 ---
 ### NFT Development
 
+![JUN NFT]()
+![JUL NFT]()
+![AUG NFT]()
+![SEP NFT]()
+![OCT NFT]()
+![NOV NFT]()
+
 ---
 *Trade
 
-![alt text](file path)
-[marketplace](https://yvm.mfc.mybluehost.me/) 
+![marketplace](Visuals/Mktplace_Frontend.png)
+[marketplace frontend](https://yvm.mfc.mybluehost.me/) 
+![pay using CAT]()
+
 
 ## Contributors
 
