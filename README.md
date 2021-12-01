@@ -51,14 +51,16 @@ CAT
 Step 1: Deployed a simple ERC20 token on the Ethereum Ropsten Testnet
 Minted 200,000 CAT tokens and stored in creator's wallet until transferred
 
-![token deploy](file path)
+![token deploy](Visuals/CATtoken_deploy.png)
 
 Step 2:  Provided liquidity with a CAT-ETH pair on Uniswap v3 on the Ropsten Testnet
 I needed 3722 CAT to create the CAT-ETH pool, which I later increased to 5710 per ETH to stabilize the pair
 
-![CAT liquidity](Visuals/CAT_ETH_exchange.png)
+![CAT liquidity](Visuals/CAT_liquidity.png)
 
 Step 3:  I ensured that that CAT was tradable on the exchange with a value of 43899.6 CAT per 1 ETH.  I did this so that CAT would not be too expensive to interact with
+![CAT tradeable](Visuals/CAT_Tradeable.png)
+![CAT tradeable](Visuals/CAT_trade_verified.png)
 ![token exchange](Visuals/CAT_ETH_exchange.png)
 
 ---
@@ -67,24 +69,28 @@ Step 3:  I ensured that that CAT was tradable on the exchange with a value of 43
 
 MultiSender app for the airdrops of CAT tokens to the 6 winners
 [multisender](https://multisender.app/)
-![CAT transfer](file path)
+
 
 ---
 ### NFT Development
 
-![JUN NFT]()
-![JUL NFT]()
-![AUG NFT]()
-![SEP NFT]()
-![OCT NFT]()
-![NOV NFT]()
+![JUN NFT](Visuals/June.png)
+![JUL NFT](Visuals/July.png)
+![AUG NFT](Visuals/August.png)
+![SEP NFT](Visuals/September.png)
+![OCT NFT](Visuals/October.png)
+![NOV NFT](Visuals/November.png)
+
+### Digital Asset Marketplace
+
+Visuals/Mktplace_Frontend.png
 
 ---
 *Trade
 
 ![marketplace](Visuals/Mktplace_Frontend.png)
 [marketplace frontend](https://yvm.mfc.mybluehost.me/) 
-![pay using CAT]()
+![pay using CAT](Visuals/Buy_NFT.png)
 
 
 ## Contributors
