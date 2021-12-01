@@ -4,6 +4,7 @@
 ## Technologies
 
 **Token Multisender App 
+**WooCommerce 
 
 ## Installation Guide
 
@@ -74,6 +75,8 @@ MultiSender app for the airdrops of CAT tokens to the 6 winners
 ---
 ### NFT Development
 
+
+
 ![JUN NFT](Visuals/June.png)
 ![JUL NFT](Visuals/July.png)
 ![AUG NFT](Visuals/August.png)
@@ -83,10 +86,18 @@ MultiSender app for the airdrops of CAT tokens to the 6 winners
 
 ### Digital Asset Marketplace
 
-Visuals/Mktplace_Frontend.png
+User interface created using WooCommerce, an open-source e-commerce plugin for WordPress.
+The WordPress plug-in allows for any WooCommerce product to be paid for using any ERC20 as long as liquidity is provided on an exchange like Uniswap.  
+Both Uniswap and the plug-in support the Ropsten Testnet. The WordPress plug-in automatically interacts with the Web3 blockchain via Infura, allowing a seamless bridge from Web2 to Web3.  
+
+[WordPress](https://wordpress.org/plugins/ethereumico/)
 
 ---
+
 *Trade
+
+Reward recipients must visit Columbia Attention Token Marketplace to purchase NFTs. After selecting from the NFTs listed for sale, buyer can simply click to pay with CAT and Metamask automatically launches for the confirmations.
+Once order is confirmed, NFT will be sent to the buyer's address.
 
 ![marketplace](Visuals/Mktplace_Frontend.png)
 [marketplace frontend](https://yvm.mfc.mybluehost.me/) 
