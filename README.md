@@ -1,5 +1,4 @@
-# *Engagement Reward*
-> "...quote"
+# *Columbia Attention Token*
 
 ## Technologies
 
