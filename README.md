@@ -75,14 +75,25 @@ MultiSender app for the airdrops of CAT tokens to the 6 winners
 ---
 ### NFT Development
 
-
-
 ![JUN NFT](Visuals/June.png)
 ![JUL NFT](Visuals/July.png)
 ![AUG NFT](Visuals/August.png)
 ![SEP NFT](Visuals/September.png)
 ![OCT NFT](Visuals/October.png)
 ![NOV NFT](Visuals/November.png)
+
+* NFT Contract
+Smart contract, named NFT, inherits ERC721, ERC721URIStorage standards, import from OpenZeppelin.
+Counters utility allows us to access & modify the unique asset identifier & increment it every time function is called.
+SetTokenURI allows us to enter IPFS url as tokenURI
+
+![NFT contract](Visuals/NFT_Contract.png)
+
+* Marketplace Contract
+Smart contract, named NFTMarket, inherits ReentranctGuard standards, import from OpenZeppelin which is a modifier used for security measures to prevent reenty attacks when making recursive calls.
+Contracts has functions that allows user to list digital assets for sale by creating a unique market item ID, transfer ownership when digital asset is purchased, and a recall function to return all unsold items, and to confirm NFT ownership of the same.
+
+![Marketplace contract](Visuals/Mktplace_Contract.png)
 
 ### Digital Asset Marketplace
 
