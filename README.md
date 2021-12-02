@@ -1,11 +1,12 @@
 # *Columbia Attention Token*
 
+Engagement reward token award to Columbia Fintech Bootcamp students based on data obtained from Slack channel.
+
 ## Technologies
 
 **Token Multisender App 
 **WooCommerce 
-
-## Installation Guide
+**WordPress
 
 ### Data Collection
 
@@ -115,6 +116,12 @@ Once order is confirmed, NFT will be sent to the buyer's address.
 
 
 ## Contributors
+
+* Gabriela Corrochano
+* Shannon Li
+* Joshua Maddox
+* Julia Milin
+* Henry Wilcox
 
 Pull requests are welcome. Please open an issue to discuss before executing any changes. Please make sure to update tests as needed.
 
